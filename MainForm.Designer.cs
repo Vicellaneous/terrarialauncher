@@ -134,6 +134,7 @@
             this.radialMenuItem1.SubItems.AddRange(new DevComponents.DotNetBar.BaseItem[] {
             this.MenuSetResolution,
             this.MenuSetLanguage});
+            this.radialMenuItem1.Symbol = "";
             this.radialMenuItem1.Text = "Settings";
             // 
             // MenuSetResolution
